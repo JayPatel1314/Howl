@@ -13,7 +13,7 @@
 
 
 ## Screenshots
-#Now Playing
+# Now Playing
 ![now playing](https://telegra.ph/file/4b6687a469633d132aeb1.jpg)
 
   
