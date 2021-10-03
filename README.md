@@ -16,10 +16,6 @@
 
 ![now playing](https://telegra.ph/nowplaying-dark-10-03)
 
-![songs](https://telegra.ph/songs-dark-10-03)
-
-![albums](https://telegra.ph/albums-dark-10-03)
-
   
 ## Download
 
