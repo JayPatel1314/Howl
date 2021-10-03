@@ -13,7 +13,6 @@
 
 
 ## Screenshots
-
 ![now playing](https://telegra.ph/nowplaying-dark-10-03)
 
   
