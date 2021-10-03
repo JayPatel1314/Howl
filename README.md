@@ -13,7 +13,8 @@
 
 
 ## Screenshots
-![now playing](https://telegra.ph/nowplaying-dark-10-03)
+#Now Playing
+![now playing](https://telegra.ph/file/4b6687a469633d132aeb1.jpg)
 
   
 ## Download
