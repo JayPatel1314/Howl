@@ -16,6 +16,11 @@
 #### Now Playing
 ![now playing](https://telegra.ph/file/4b6687a469633d132aeb1.jpg)
 
+#### Songs_Dark
+![Songs_dark](https://telegra.ph/file/1b0d282b79e5ac51034b5.jpg)
+
+#### NowPlaying_Dark
+![nowplaying_dark](https://telegra.ph/file/1b0d282b79e5ac51034b5.jpg)
   
 ## Download
 
